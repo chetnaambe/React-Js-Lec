@@ -1,0 +1,49 @@
+@import "tailwindcss";
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+
+}
+body{
+  padding: 30px;
+}
+.card{
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.upper{
+  height: 50%;
+  width: 100%;
+}
+.upper img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.lower{
+  height: 50%;
+  width: 100%;
+  padding: 20px;
+}
+.card h2{
+  font-size: 45px;
+}
+.card h4{
+  font-size: 12px;
+  font-weight: 500;
+  color: #888;
+}
+.lower h3{
+  font-size: 18px;
+  color: black;
+  margin-top: 10px;
+}
