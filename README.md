@@ -62,4 +62,4 @@ The goal of this repository is to:
    Chetna Ambe
 
 GitHub: https://github.com/chetnaambe
-LinkedIn: https://www.linkedin.com/in/chetna-ambe-dev
+LinkedIn: https://www.linkedin.com/in/chetna-ambe-78562b286/
